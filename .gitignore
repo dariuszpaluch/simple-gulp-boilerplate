@@ -1,0 +1,10 @@
+
+node_modules/
+dist/
+build/
+_tmp/
+.vscode/
+*.orig
+.idea/
+jsconfig.json
+npm-debug.log.*
