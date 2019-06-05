@@ -1,7 +1,7 @@
-# dariuszpaluch_com
-
+# Simple gulp boilerplate
 
 ## Requirements
  - node
- - python 2.7 (gulp-responsive)
- - Windows (`npm install --global --production windows-build-tools`)
+ - gulp-responsive - without this remove gulp-responsive plugin from gulpfile.js
+   - `python 2.7` 
+   - Windows `npm install --global --production windows-build-tools`
